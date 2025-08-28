@@ -19,10 +19,9 @@ The app provides real-time insights into key production parameters such as **wat
 
 ## 🗂️ Project Structure
 
-Oil-Well-Project/
-│
-├── OilApp.py # Main Streamlit application
-├── script.py # Data cleaning & preprocessing script
-├── dataset.csv # Cleaned dataset (with renamed columns)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+1.Oil-Well-Project
+2.OilApp.py # Main Streamlit application
+3.script.py # Data cleaning & preprocessing script
+4.dataset.csv # Cleaned dataset (with renamed columns)
+5.requirements.txt # Python dependencies
+6.README.md # Project documentation
